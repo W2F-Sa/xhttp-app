@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS",
+  "description": "High-perfomance Xray Core client for Android with TCPing low latency testing, subscription sync, and premium glassmorphic widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
